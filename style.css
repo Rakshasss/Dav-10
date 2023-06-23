@@ -102,3 +102,24 @@ footer p {
 footer iframe {
   margin-top: 40px;
 }
+
+.forma {
+  margin: 10px 0;
+}
+
+.forma label {
+  display: inline-block;
+  min-width: 120px;
+  text-transform: capitalize;
+}
+
+.forma input input:focus-visible {
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #ffffff;
+  padding: 4px 8px;
+}
+
+.forma {
+  outline: none;
+}
