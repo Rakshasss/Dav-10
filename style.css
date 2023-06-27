@@ -123,3 +123,40 @@ footer iframe {
 .forma {
   outline: none;
 }
+
+.forma input {
+  background-color: blue;
+  border: 0;
+  border-bottom: 1px solid white;
+  width: 300px;
+  height: 30px;
+  margin-top: 20px;
+  color: white;
+}
+#submit {
+  all: unset;
+}
+.button {
+  position: relative;
+  background-color: white;
+  color: #171717;
+  cursor: pointer;
+  text-decoration: none;
+  letter-spacing: 1px;
+  text-align: center;
+  text-transform: uppercase;
+  border: 1px solid white;
+  border-radius: 28px;
+  top: 20px;
+  padding: 15px 30px;
+}
+#msg {
+  background-color: blue;
+  border: 0;
+  border-bottom: 1px solid white;
+  color: white;
+}
+
+.button {
+  left: 235px;
+}
